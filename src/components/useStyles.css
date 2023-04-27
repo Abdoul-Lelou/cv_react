@@ -1,0 +1,30 @@
+.avatar {
+    vertical-align: middle;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    color: rgb(55, 55, 213)
+  }
+
+  strong{
+      /* color: greenyellow; */
+
+      padding-top: 10px;
+  }
+
+  p{
+      font-size:small;
+  }
+
+  .bg{
+      background-color: rgb(219, 224, 226);
+  }
+
+  .bdLeft{
+      border-right: rgb(215, 216, 214) 2.5px solid;
+      
+  }
+
+  hr{
+      color:rgb(55, 55, 213)
+  }
